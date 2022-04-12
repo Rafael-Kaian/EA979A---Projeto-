@@ -17,11 +17,11 @@ No primeiro semestre de 2022, na Unicamp, sob supervisão da Profa. Dra. Paula D
 ##  Plano de Trabalho
 > * Etapa 1 adiquirir uma base de dados (1 semana): 
 > A  ideia é adiquirir as imagens de sites anunciam animais perdidos e encontrados e montar uma base de dados de animais perdidos.
-> * Etapa 2 criação do codigo (3semanas):
-> criar um codigo e usar a base de dados como teste do seu funcionamento
+> * Etapa 2 criação do codigo (5 semanas):
+> Estudar como criar o codigo e criação do codigo usar a base de dados como teste do seu funcionamento
 >     
 > * Etapa 3 refinar o codigo:
-> tentar fazer com que o software seja mais efetivo
+> tentar fazer com que o código seja mais efetivo
 ##  Referências Bibliográficas
 > https://revistas.anchieta.br/index.php/RevistaUbiquidade/article/view/1525/1402
 >
