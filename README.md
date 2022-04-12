@@ -10,9 +10,7 @@ No primeiro semestre de 2022, na Unicamp, sob supervisão da Profa. Dra. Paula D
 
 
 ##  Descrição do Projeto
-> O presente tem como objetivo auxiliar em um problema latente em nossa sociedade, no ano ocorreu de eu encontrar animais domesticos na rua, mas não saber quem eram seus donos, pensando nisso achei que seria legal ter uma espécie de  
-> software que reconhecesse caracteriscas do pet tais como cor do pelo, manchas em determidas partes do corpo,porte, entre outras, e a partir disso buscar em banco de dados animais que compartinham das mesmas caractericas, facilitando
-> assim o encontro do dono do animal, claro que o caminho inverso também poderia ser feito ou seja reconhecer um animal perdido numa base de dados animais encontrados.
+> O presente tem como objetivo auxiliar em um problema latente em nossa sociedade, no ano ocorreu de eu encontrar animais domesticos na rua, mas não saber quem eram seus donos, pensando nisso achei que seria legal ter uma espécie de algoritimo que reconhecesse caracteriscas do pet tais como cor do pelo, manchas em determidas partes do corpo,porte, entre outras, e a partir disso buscar em banco de dados animais que compartinham das mesmas caractericas, facilitando assim o encontro do dono do animal, claro que o caminho inverso também poderia ser feito ou seja reconhecer um animal perdido numa base de dados animais encontrados.
 
 ##  Plano de Trabalho
 > * Etapa 1 adiquirir uma base de dados (1 semana): 
