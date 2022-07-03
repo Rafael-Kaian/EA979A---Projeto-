@@ -1,6 +1,5 @@
-# `< De quem é esse focinho? (Reconhecimento de semelhanças entre cães através de fotos)
- >`
-# `< Whose snout is this? (Recognition of similarities between dogs through photos) >`
+#  De quem é esse focinho? (Reconhecimento de semelhanças entre cães através de fotos)
+#  Whose snout is this? (Recognition of similarities between dogs through photos)
  
 ## Apresentação
  
@@ -35,12 +34,12 @@ Porém mesmo com as dificuldades nas referência e nos pontos já citados ao lon
 ## Referências Bibliográficas
 
 > (1) https://towardsdatascience.com/deep-learning-build-a-dog-detector-and-breed-classifier-using-cnn-f6ea2e5d954a
-> (2) https://github.com/nikhilroxtomar/Dog-Breed-Classifier-using-TF2.0
-> (3) https://setosa.io/ev/image-kernels/
-> (4) https://github.com/RahilBA/Dog-Breed-Classifier
-> (5) https://colab.research.google.com/github/gowtham91m/Udacity_dog_breed_classification/blob/master/dog_app_keras.ipynb#scrollTo=awa4azQRptu8
-> (6) https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
-> (7) https://www.maxwell.vrac.puc-rio.br/13069/13069_4.PDF
-> (8) https://bibliodigital.unijui.edu.br:8443/xmlui/bitstream/handle/123456789/5832/Elisiane%20Pelke%20Paix%C3%A3o.pdf?sequence=1&isAllowed=y
+  (2) https://github.com/nikhilroxtomar/Dog-Breed-Classifier-using-TF2.0
+  (3) https://setosa.io/ev/image-kernels/
+  (4) https://github.com/RahilBA/Dog-Breed-Classifier
+  (5) https://colab.research.google.com/github/gowtham91m/Udacity_dog_breed_classification/blob/master/dog_app_keras.ipynb#scrollTo=awa4azQRptu8
+  (6) https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
+  (7) https://www.maxwell.vrac.puc-rio.br/13069/13069_4.PDF
+  (8) https://bibliodigital.unijui.edu.br:8443/xmlui/bitstream/handle/123456789/5832/Elisiane%20Pelke%20Paix%C3%A3o.pdf?sequence=1&isAllowed=y
 
 
