@@ -7,6 +7,7 @@
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação *EA979A - Introdução a Computação Gráfica e Processamento de Imagens*,
 oferecida no primeiro semestre de 2022, na Unicamp, sob supervisão da Profa. Dra. Paula Dornhofer Paro Costa, do Departamento de Engenharia de Computação e Automação (DCA) da Faculdade de Engenharia Elétrica e de Computação (FEEC).
  
+> |--|--|--|
 > | Rafael Kaian do Nascimento de Aquino | 186080  | Física Médica|
  
  
@@ -41,6 +42,7 @@ Porém mesmo com as dificuldades nas referência e nos pontos já citados ao lon
 > (6) https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
 > (7) https://www.maxwell.vrac.puc-rio.br/13069/13069_4.PDF
 > (8) https://bibliodigital.unijui.edu.br:8443/xmlui/bitstream/handle/123456789/5832/Elisiane%20Pelke%20Paix%C3%A3o.pdf?sequence=1&isAllowed=y
+
 
 
 
