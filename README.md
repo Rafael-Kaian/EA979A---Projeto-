@@ -43,3 +43,4 @@ Porém mesmo com as dificuldades nas referência e nos pontos já citados ao lon
 > (8) https://bibliodigital.unijui.edu.br:8443/xmlui/bitstream/handle/123456789/5832/Elisiane%20Pelke%20Paix%C3%A3o.pdf?sequence=1&isAllowed=y
 
 
+
